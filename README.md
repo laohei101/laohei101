@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laohei101
-- 👀 I’m interested in STEM
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects involving java or python.
+- 👀 I’m interested in building.
+- 🌱 I’m constantly learning.
+- 💞️ I’m looking to collaborate on cool projects related to software, web dev, or AI.
 - 📫 How to reach me codedai517@gmail.com  or  IG: kevind.34
 
 <!---
