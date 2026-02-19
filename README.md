@@ -25,6 +25,7 @@ My work sits at the intersection of software engineering, machine learning, and 
 <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-Strong-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-iOS-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
 ### 🌐 Frontend
