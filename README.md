@@ -1,48 +1,99 @@
-👋 Hi, I’m Kevin Dai
+<h1 align="center">👋 Hi, I'm Kevin Dai</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI Engineer | Chemical Engineering @ UofT</h3>
 
-🚀 Full-Stack Developer | AI Engineer | Chemical Engineering @ UofT
+<p align="center">
+I build scalable web applications, intelligent systems, and AI-powered tools that solve real problems.<br/>
+My work sits at the intersection of software engineering, machine learning, and applied engineering systems.
+</p>
 
-I build scalable web applications, intelligent systems, and data-driven tools that solve real problems. My work sits at the intersection of software engineering, machine learning, and applied engineering systems.
+---
 
-💡 What I Do
+## 💡 What I Do
 
-🔭 Build production-ready full-stack applications
+- 🏗 Build production-ready full-stack applications  
+- 🧠 Develop machine learning models (optimization, prediction, system modeling)  
+- 🎨 Design clean, responsive web interfaces  
+- ⚡ Deploy efficiently using modern cloud infrastructure  
 
-🧠 Develop machine learning models (optimization, prediction, system modeling)
+---
 
-🌍 Design clean, responsive web interfaces
+## 🛠 Tech Stack
 
-⚡ Deploy fast with modern cloud tooling
+### 👨‍💻 Languages
+<p>
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Strong-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-🛠 Tech Stack
-👨‍💻 Languages
+### 🌐 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-Python • JavaScript • TypeScript • Java
+### 🔧 Backend
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-🌐 Frontend
+### 🤖 AI / Data
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+</p>
 
-React • Next.js • Tailwind CSS • HTML5 • CSS3
+### ☁️ Dev & Deployment
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+</p>
 
-🔧 Backend
+---
 
-Node.js • Express • REST APIs • PostgreSQL • Firebase
+## 🚀 Current Focus
 
-🤖 AI / Data
+- Scaling AI-powered SaaS platforms  
+- Designing clean system architectures  
+- Deploying high-performance ML systems  
 
-PyTorch • TensorFlow • scikit-learn • NumPy • Pandas
+---
 
-☁️ Dev & Deployment
+## 📊 GitHub Stats
 
-Git • GitHub • Vercel • Docker
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
 
-📌 Current Focus
+---
 
-Scaling AI-powered SaaS platforms
+## 🤝 Connect With Me
 
-📊 GitHub Stats
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-Building clean system architectures
-
-Designing products that combine software + real-world engineering
+<p>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:codedai517@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://instagram.com/kevind.34">
+<img src="https://img.shields.io/badge/Instagram-Connect-purple?style=for-the-badge&logo=instagram"/>
+</a>
+</p>
