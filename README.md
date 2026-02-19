@@ -82,18 +82,4 @@ My work sits at the intersection of software engineering, machine learning, and 
 <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
----
 
-## 🤝 Connect With Me
-
-<p>
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:codedai517@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://instagram.com/kevind.34">
-<img src="https://img.shields.io/badge/Instagram-Connect-purple?style=for-the-badge&logo=instagram"/>
-</a>
-</p>
