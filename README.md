@@ -1,20 +1,6 @@
 <h1 align="center">👋 Hi, I'm Kevin Dai</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI Engineer | Chemical Engineering @ UofT</h3>
 
-<p align="center">
-I build scalable web applications, intelligent systems, and AI-powered tools that solve real problems.<br/>
-My work sits at the intersection of software engineering, machine learning, and applied engineering systems.
-</p>
-
----
-
-## 💡 What I Do
-
-- 🏗 Build production-ready full-stack applications  
-- 🧠 Develop machine learning models (optimization, prediction, system modeling)  
-- 🎨 Design clean, responsive web interfaces  
-- ⚡ Deploy efficiently using modern cloud infrastructure  
-
 ---
 
 ## 🛠 Tech Stack
@@ -62,14 +48,6 @@ My work sits at the intersection of software engineering, machine learning, and 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 </p>
-
----
-
-## 🚀 Current Focus
-
-- Scaling AI-powered SaaS platforms  
-- Designing clean system architectures  
-- Deploying high-performance ML systems  
 
 ---
 
